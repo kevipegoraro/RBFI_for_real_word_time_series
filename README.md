@@ -1,5 +1,5 @@
-**Reconstructing High-Resolution Time Series with Radial Basis Function Interpolation (RBFI)
-**
+**Reconstructing High-Resolution Time Series with Radial Basis Function Interpolation (RBFI)**
+
 In many real-world datasets—especially those involving environmental sensors, tides, or even marketing data— data arrives in irregular intervals: hourly, every 5 minutes, or even daily. Missing values are also common. This creates a central challenge: how do we reconstruct a complete, high-resolution time series from fragmented and inconsistent inputs?
 
 As an applied mathematician, I explored Radial Basis Function Interpolation (RBFI) as a solution to this problem. RBFI is a method for scattered data interpolation that uses kernel-based functions—like Gaussian, Multiquadric, or Thin Plate—centered at known data points to smoothly estimate values in between.
