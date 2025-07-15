@@ -24,3 +24,6 @@ Visualization: Produces smooth and interpretable plots
 Feature engineering: Enhances time-aware machine learning pipelines
 Real-time monitoring: Ensures continuity even during sensor dropouts
 RBFI is not just a mathematical curiosity—it’s a trusted tool across fields like geophysics, fluid dynamics, computer graphics, and machine learning. Its ability to handle noisy, irregular, or missing data makes it indispensable in time series reconstruction.
+
+Made by Kévi Pegoraro
+https://www.linkedin.com/in/kevi-pegoraro/
